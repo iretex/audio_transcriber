@@ -1,0 +1,8 @@
+python-dotenv
+openai
+transformers
+SpeechRecognition
+requests
+pydub
+ffmpeg-python
+google-cloud-speech
